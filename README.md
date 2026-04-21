@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي روحي تناديك
+> في عيوني شوق يداريك
+> كل القصايد تنكتب فيك
+> ليلي ونهاري انا شاريك
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
