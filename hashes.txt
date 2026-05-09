@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kel El Qasayed
+
+This log tracks the cryptographic history and versioning for the song **Kel El Qasayed** (kel-el-qasayed).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:16:09.548489 | `v1` | `a7a6f52c0da1fae0acd87ef4a3f54cde498f3e4d45c6c2ee9b4a4a6029514422` | `c26fd18cd55c19519ba547b9aff739d612d894fb3619fc75e9c50baa250f5bed` | `2026-05-09_kel-el-qasayed-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
